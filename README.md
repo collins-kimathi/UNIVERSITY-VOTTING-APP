@@ -4,7 +4,7 @@ A simple and secure electronic voting system developed as a final academic proje
 
 Secure login for voters and admin
 
-One-student-one-vote enforcement
+One-student-one-vote enforcement - 
 
 Candidate and position management
 
@@ -14,7 +14,7 @@ Automated vote counting and result display
 
 Programming Language: (java)
 
-Database: (MySQL / firebase authentication)
+Database: (MySQL  lite / firebase authentication)
 
 Platform: Windows
 
